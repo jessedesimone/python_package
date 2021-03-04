@@ -1,0 +1,8 @@
+README.md
+setup.py
+hellodemo/__init__.py
+hellodemo/helloname.py
+hellodemo.egg-info/PKG-INFO
+hellodemo.egg-info/SOURCES.txt
+hellodemo.egg-info/dependency_links.txt
+hellodemo.egg-info/top_level.txt

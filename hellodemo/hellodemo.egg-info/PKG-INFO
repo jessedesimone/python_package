@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: hellodemo
+Version: 1.0.0
+Summary: hello package
+Home-page: UNKNOWN
+Author: Jesse DeSimone
+Author-email: desimone.neuro@gmail.com
+License: UNKNOWN
+Description: Tutorial for basic creation and activation of python package
+Keywords: hello
+Platform: UNKNOWN
